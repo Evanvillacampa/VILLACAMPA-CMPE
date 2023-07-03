@@ -20,7 +20,7 @@ namespace VendingMachine
 
             int loop = 0;
             int totalPrice;
-            Menu menu1 = new Menu();
+            Menu menu1 = new Menu(); //Menu Class
             menu1.Drinknames = "           1 .Cocacola               ";
             menu1.PriceofDrinks = 48;
 
